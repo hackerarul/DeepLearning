@@ -1,0 +1,17 @@
+# the classes will be designated to some different animals
+# may be around 10 classes for trying this out for the first time
+
+# classes will be ranged from 0-7
+
+The details for the classes are:-
+
+class 0 : Deer
+class 1 : Elephant
+class 2 : Giraffe
+class 3 : Horse
+class 4 : Lion
+class 5 : snake
+class 6 : Tiger
+class 7 : Zebra
+
+
